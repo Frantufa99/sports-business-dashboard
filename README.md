@@ -99,19 +99,8 @@ questions, and analysis reflect real industry scenarios.
 
 ## Author
 
-Franco — Data Analyst in training
+Francisco Tufare— Data Analyst in training
 SQL · Power BI · Python
 Buenos Aires, Argentina
 ```
 
----
-
-**Cómo subir esto a GitHub:**
-
-1. Desde la raíz del repositorio clickeás el archivo `LÉAME.md` que ya existe
-2. Clickeás el ícono del lápiz ✏️ para editarlo
-3. Borrás todo el contenido que tiene ahora
-4. Pegás este README completo
-5. Mensaje del commit:
-```
-Add complete project README in English
